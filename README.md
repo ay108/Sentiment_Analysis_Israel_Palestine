@@ -3,7 +3,7 @@
 
 In this notebook, I aim to compare and contrast sentiment found in reddit commens related to the Israel-Palestine Genocide from earlier (~2023) and now (After Trump has been in office, starting January 2025).
 
-There is already prior analysis done from an existing kaggle workbook, where they did EDA, sentiment analysis, Topic modeling, Geopolitical stance classification. I aim to add to the conversation by analyzing how Trump's presence has or has not affected the composition of people who support Palestine or Israel.
+There is already prior analysis done, where sentiment analysis and geopolitical stance classification was done. I aim to add to the conversation by analyzing how Trump's presence has or has not affected the composition of people who support Palestine or Israel.
 
 This analysis is divided into 6 sections:
 
